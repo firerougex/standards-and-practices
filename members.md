@@ -43,6 +43,7 @@ Format:
 
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
+| Hello World! | [firerougex](https://github.com/firerougex) | I'm learning Javascript, Ruby and Python, I want to use github as a platform for my code imporvement and collaboration. |
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
